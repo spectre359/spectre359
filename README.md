@@ -5,8 +5,10 @@ I am a .Net software engineer from Bulgaria
 - 🌱 Learning design patterns in depth
 <br>
 ## Connect with me
-<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/philip-gubanov-0147b8107/" />
-
+<br>
+<a href="https://www.linkedin.com/in/philip-gubanov-0147b8107/">
+         <img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  />
+ </a>
 
 <br>
 <br>
